@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9328cca8-def8-4ab8-89d7-8c344f0b3ff0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PrintDiamond/DiamondGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PrintDiamond/DiamondGeneratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ISBN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ISBNTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -64,8 +63,8 @@
       <file leaf-file-name="DiamondGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PrintDiamond/DiamondGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+            <state relative-caret-position="271">
+              <caret line="60" column="64" selection-start-line="60" selection-start-column="64" selection-end-line="60" selection-end-column="64" />
               <folding>
                 <element signature="e#251#259#0" expanded="true" />
               </folding>
@@ -73,11 +72,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiamondGeneratorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ISBN.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ISBN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="81" column="45" selection-start-line="81" selection-start-column="45" selection-end-line="81" selection-end-column="45" />
+              <folding>
+                <element signature="e#1245#1254#0" expanded="true" />
+                <element signature="e#1926#1935#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ISBNTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ISBNTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiamondGeneratorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PrintDiamond/DiamondGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="63" column="40" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+            <state relative-caret-position="286">
+              <caret line="76" column="97" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="97" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,6 +119,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -110,8 +139,10 @@
         <option value="$PROJECT_DIR$/src/test/java/PrintDiamond/PrintDiamondTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrintDiamond/LineGenerator.java" />
         <option value="$PROJECT_DIR$/src/test/java/PrintDiamond/LineGeneratorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PrintDiamond/DiamondGenerator.java" />
         <option value="$PROJECT_DIR$/src/test/java/PrintDiamond/DiamondGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrintDiamond/DiamondGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ISBN.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ISBNTest.java" />
       </list>
     </option>
   </component>
@@ -158,35 +189,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kata" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PrintDiamond" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kata" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kata" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kata" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PrintDiamond" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -205,6 +207,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
       <recent name="PrintDiamond" />
       <recent name="NumberNamer" />
       <recent name="haikuReview" />
@@ -225,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DiamondGeneratorTest">
+  <component name="RunManager" selected="JUnit.ISBNTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -298,6 +301,23 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="ISBNTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ISBNTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="LineGeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
@@ -310,29 +330,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="PrintDiamond" />
       <option name="MAIN_CLASS_NAME" value="PrintDiamond.LineGeneratorTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="NumberNamerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NumberNamer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="NumberNamer" />
-      <option name="MAIN_CLASS_NAME" value="NumberNamer.NumberNamerTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -383,19 +380,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.NumberNamerTest" />
       <item itemvalue="JUnit.LineGeneratorTest" />
       <item itemvalue="JUnit.DiamondGeneratorTest.generatesADiamond" />
       <item itemvalue="JUnit.DiamondGeneratorTest.generatesBDiamond" />
       <item itemvalue="JUnit.DiamondGeneratorTest" />
+      <item itemvalue="JUnit.ISBNTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ISBNTest" />
         <item itemvalue="JUnit.DiamondGeneratorTest" />
         <item itemvalue="JUnit.DiamondGeneratorTest.generatesBDiamond" />
         <item itemvalue="JUnit.DiamondGeneratorTest.generatesADiamond" />
         <item itemvalue="JUnit.LineGeneratorTest" />
-        <item itemvalue="JUnit.NumberNamerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -413,35 +410,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DiamondGeneratorTest - 2019.09.30 at 15h 53m 50s.xml">
-      <configuration name="DiamondGeneratorTest" configurationId="JUnit" />
+    <history-entry file="ISBNTest - 2019.10.01 at 12h 48m 32s.xml">
+      <configuration name="ISBNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiamondGeneratorTest - 2019.09.30 at 15h 55m 48s.xml">
-      <configuration name="DiamondGeneratorTest" configurationId="JUnit" />
+    <history-entry file="ISBNTest - 2019.10.01 at 12h 49m 07s.xml">
+      <configuration name="ISBNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiamondGeneratorTest - 2019.09.30 at 16h 10m 23s.xml">
-      <configuration name="DiamondGeneratorTest" configurationId="JUnit" />
+    <history-entry file="ISBNTest - 2019.10.01 at 12h 50m 48s.xml">
+      <configuration name="ISBNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiamondGeneratorTest - 2019.09.30 at 16h 10m 44s.xml">
-      <configuration name="DiamondGeneratorTest" configurationId="JUnit" />
+    <history-entry file="ISBNTest - 2019.10.01 at 12h 52m 26s.xml">
+      <configuration name="ISBNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiamondGeneratorTest - 2019.09.30 at 16h 11m 12s.xml">
-      <configuration name="DiamondGeneratorTest" configurationId="JUnit" />
+    <history-entry file="ISBNTest - 2019.10.01 at 12h 54m 00s.xml">
+      <configuration name="ISBNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiamondGeneratorTest - 2019.09.30 at 16h 11m 30s.xml">
-      <configuration name="DiamondGeneratorTest" configurationId="JUnit" />
+    <history-entry file="ISBNTest - 2019.10.01 at 13h 00m 33s.xml">
+      <configuration name="ISBNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiamondGeneratorTest - 2019.09.30 at 16h 11m 52s.xml">
-      <configuration name="DiamondGeneratorTest" configurationId="JUnit" />
+    <history-entry file="ISBNTest - 2019.10.01 at 13h 01m 08s.xml">
+      <configuration name="ISBNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiamondGeneratorTest - 2019.09.30 at 16h 12m 11s.xml">
-      <configuration name="DiamondGeneratorTest" configurationId="JUnit" />
+    <history-entry file="ISBNTest - 2019.10.01 at 13h 02m 00s.xml">
+      <configuration name="ISBNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiamondGeneratorTest - 2019.09.30 at 16h 13m 39s.xml">
-      <configuration name="DiamondGeneratorTest" configurationId="JUnit" />
+    <history-entry file="ISBNTest - 2019.10.01 at 13h 02m 58s.xml">
+      <configuration name="ISBNTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DiamondGeneratorTest - 2019.09.30 at 16h 15m 07s.xml">
-      <configuration name="DiamondGeneratorTest" configurationId="JUnit" />
+    <history-entry file="ISBNTest - 2019.10.01 at 13h 03m 09s.xml">
+      <configuration name="ISBNTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -462,13 +459,13 @@
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -527,16 +524,6 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PrintDiamond/LineGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PrintDiamond/LineGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-401">
@@ -548,20 +535,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PrintDiamond/DiamondGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/PrintDiamond/LineGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="52" column="75" selection-start-line="52" selection-start-column="75" selection-end-line="52" selection-end-column="75" />
+        <state relative-caret-position="1716">
+          <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
           <folding>
-            <element signature="e#251#259#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PrintDiamond/DiamondGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="63" column="40" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+        <state relative-caret-position="286">
+          <caret line="76" column="97" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrintDiamond/DiamondGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="60" column="64" selection-start-line="60" selection-start-column="64" selection-end-line="60" selection-end-column="64" />
+          <folding>
+            <element signature="e#251#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ISBN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="81" column="45" selection-start-line="81" selection-start-column="45" selection-end-line="81" selection-end-column="45" />
+          <folding>
+            <element signature="e#1245#1254#0" expanded="true" />
+            <element signature="e#1926#1935#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ISBNTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
